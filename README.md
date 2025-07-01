@@ -26,7 +26,7 @@ The station sits in the Meridian star system, strategically positioned at the cr
 Book 1 has reached complete draft status, with all chapters written and comprehensive revisions implemented.
 
 ### Manuscript Statistics
-- **Total Length**: ~120,000 words
+- **Total Length**: ~91,000 words
 - **Structure**: 12 chapters + epilogue
 - **POV**: Multiple third-person limited perspectives
 - **Core Cast**: 4 main protagonists, extensive supporting ensemble
