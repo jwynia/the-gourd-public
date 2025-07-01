@@ -70,7 +70,7 @@ Book 1 has reached complete draft status, with all chapters written and comprehe
 
 **Four Main Protagonists**
 - **Talia Elsie**: Senior maintenance specialist whose journey from isolation to integration leadership drives the technical solution
-- **Dex Chen**: Syndicate network specialist torn between loyalties, whose transition experience enables critical infrastructure access
+- **Dex Shade**: Syndicate network specialist torn between loyalties, whose transition experience enables critical infrastructure access
 - **Amara Witness**: Agricultural academic whose community building expertise provides chaos theory solution
 - **Mira Junction**: Professional mediator whose governance innovations create sustainable democracy from crisis
 
